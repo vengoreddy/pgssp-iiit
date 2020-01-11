@@ -1,0 +1,51 @@
+Linear Algebra
+##############
+• Matrix, Vector operations
+• Systems of equations, Matrix Form (Ax = b), Conditions for existence of solution
+• Rank
+• Invertibility of matrix
+• Eigenvectors, Eigenvalues,
+• Semi definiteness of matrix
+• Decompositions (Singular Value Decomposition, Eigendecomposition
+• Properties of symmetric matrices
+
+Linear Algebra in 4 pages:
+https://courses.engr.illinois.edu/ece498rc3/fa2016/material/linearAlgebra_4pgs.pdf
+
+Coordinate Geometry
+###################
+• Distance of point from a line
+• Distance between two parallel lines
+
+Vector Calculus
+###############
+• Dot product , Projections
+http://studyphysicswithme.com/blog/2016/11/07/vectors vector spaces/
+
+–
+Calculus
+• Derivative of single variable, y = f(x)
+• Partial derivative
+• Chain Rule
+• Gradient
+
+http://tutorial.math.lamar.edu getfile.aspx?file =B,41,N
+
+–
+Probability
+• Axioms of probability
+• Sample Space, Event
+• Discrete, Continuous distributions
+	Uniform, Bernoulli, Geometric
+	Gaussian
+• Expectation of a random variable
+
+Cheat sheet: https://stanford.edu/~shervine/teaching/cme 106/
+http://www.wzchen.com / probability_cheatsheet.pdf
+
+
+Statistics
+##########
+• Mean, Median, Mode
+• Standard Deviation
+Cheat sheet: https://stanford.edu/~shervine/teaching/cme 106/
